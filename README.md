@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Lautaro Ouvrard</h1>
 <h2 align="center">Backend Developer · Java · Spring Boot</h2>
 <p align="center">
-  <img width="1456" height="720" alt="banner-prog" src="" />
+  <img width="1456" height="720" alt="banner-prog" src="assets/BANNER.png" />
 </p>
 
   ## 👨‍💻 About Me
