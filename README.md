@@ -10,8 +10,10 @@ I’m a software developer specialized in **backend development**, with solid ex
 
 I’m genuinely interested in understanding how systems work end to end, and I enjoy focusing on **software architecture**, **clean code**, and applying **SOLID principles** to build scalable, maintainable solutions.
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lau4Dev&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
+## ⚙️ Tools and Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
