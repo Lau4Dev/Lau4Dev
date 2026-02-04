@@ -10,6 +10,9 @@ I’m a software developer specialized in **backend development**, with solid ex
 
 I’m genuinely interested in understanding how systems work end to end, and I enjoy focusing on **software architecture**, **clean code**, and applying **SOLID principles** to build scalable, maintainable solutions.
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lau4Dev&layout=compact&theme=github_dark" />
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
+
