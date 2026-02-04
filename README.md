@@ -1,6 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I am Lautaro Ouvrard</h1>
+<h2 align="center">Backend Developer · Java · Spring Boot</h2>
+<p align="center">
+  <img width="1456" height="720" alt="banner-prog" src="" />
+</p>
 
-# About Me
+  ## 👨‍💻 About Me
 
 I’m a software developer specialized in **backend development**, with solid experience in **frontend** and **databases**.
 
