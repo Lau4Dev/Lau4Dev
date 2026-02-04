@@ -12,7 +12,6 @@ I’m genuinely interested in understanding how systems work end to end, and I e
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lau4Dev&layout=compact&theme=github_dark&hide_border=true"
   />
 </p>
-
