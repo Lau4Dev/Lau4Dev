@@ -13,7 +13,7 @@ Passionate about backend and full-stack development.
 I enjoy to learn and build something new, productive, innovative and creative.
 
 - 🌱 I’m currently learning ...
-  - Spring WebSockets
+  - Spring STOMP
   - Redis
   - React
     
